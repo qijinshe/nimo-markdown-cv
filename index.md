@@ -9,7 +9,7 @@ homepage:
   text: qijinshe.github.io
 ---
 
-## Qijin She
+# Qijin She
 
 <!--
 include contact information from the front matter
@@ -48,7 +48,7 @@ Jinan, Shandong, China
 _ACM Transactions on Graphics (SIGGRAPH'22)._ <br>
 [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
+[[BibTeX]()]
 
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
@@ -56,6 +56,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu.
 _The 35th AAAI Conference of Artificial Intelligence._<br>
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
+[[BibTeX]()]
 
 ## Experience
 
