@@ -38,28 +38,24 @@ Changsha, Hunan, China
 Jinan, Shandong, China
 ```
 
-- B.S. in Software Engineering, _Ranked 8/292_
+- B.S. in Software Engineering, _Top 3%_
 - Data Science track
 
 ## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
+### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
+**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang.
+_ACM Transactions on Graphics (SIGGRAPH'22)._ <br>
+[[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
+[[Code](https://github.com/qijinshe/IBS-Grasping)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
 
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
-
+### **Online 3D bin packing with constrained deep reinforcement learning** <br>
+Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. 
+_The 35th AAAI Conference of Artificial Intelligence._<br>
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
+[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
 ## Experience
 
