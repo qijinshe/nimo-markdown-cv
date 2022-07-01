@@ -53,7 +53,7 @@ _ACM Transactions on Graphics (SIGGRAPH'22)._ <br>
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. 
-_The 35th AAAI Conference of Artificial Intelligence._<br>
+_The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._<br>
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 [[BibTeX]()]
