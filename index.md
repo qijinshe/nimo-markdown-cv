@@ -24,7 +24,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## EDUCATION
 
 ### **Nation University of Defense Technology** `2019.9 - 2022.6`
 
@@ -44,7 +44,7 @@ Jinan, Shandong, China
 - B.S. in Software Engineering, _Top 3%_
 - Data Science track
 
-## Publications
+## PUBLICATIONS
 
 ### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang.
@@ -61,7 +61,7 @@ _The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
 
-## Projects
+## RESEARCH EXPEROENCE
 **Visual Computing Research Center, Shenzhen University** <br>
 Project 1: Reaching-and-Grasping Planning with the Dexterous Hand `Octorber 2020 - January 2022` <br>
 _Project Leader_ 
@@ -79,7 +79,7 @@ _Project Co-Leader_
 _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang) -->
 
 
-## Honors & Awards
+## HONORS & AWARDS
 
 Outstanding Postgraduate Award `2020` <br>
 The Linglong Scholarship `2016,2018` <br>
@@ -88,7 +88,7 @@ Bronze Medal in the ACM-ICPC Asia Regional Contest Nanning Site `2017` <br>
 Second Prize in National College Students Mathematics Competition `2016` <br>
 
 
-## Teaching
+## TEACHING
 Teaching Assistant, **Data Structure and algorithm** `NUDT, 2020` <br>
 Teaching Assistant, **Seminar on research methods and academic writing in computational science** `NUDT, 2020` <br>
 
