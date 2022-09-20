@@ -22,9 +22,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## EDUCATION
+## **Education**
 
-### **Nation University of Defense Technology** `2019.9 - 2022.6`
+### Nation University of Defense Technology `2019.9 - 2022.6`
 
 ```
 Changsha, Hunan, China
@@ -33,7 +33,7 @@ Changsha, Hunan, China
 - M.S. in Computer Science,
 - Supervised by [Kai Xu](https://kevinkaixu.net/)
 
-### **Shandong University** `2015.9 - 2019.6`
+### Shandong University `2015.9 - 2019.6`
 
 ```
 Jinan, Shandong, China
@@ -42,7 +42,7 @@ Jinan, Shandong, China
 - B.S. in Software Engineering, _Top 3%_
 - Data Science track
 
-## PUBLICATIONS
+## **Research Interests**
 
 ### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang.
@@ -59,7 +59,7 @@ _The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
 
-## RESEARCH EXPEROENCE
+## **Research Experience**
 **Visual Computing Research Center, Shenzhen University** <br>
 **Project 1: Reaching-and-grasping planning with the Dexterous Hand** `Octorber 2020 - January 2022` <br>
 **Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu** <br>
@@ -86,7 +86,7 @@ _Project Co-Leader_ <br>
 _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang) -->
 
 
-## HONORS & AWARDS
+## **Honors & Awards**
 
 Outstanding Postgraduate Award `2020` <br>
 The Linglong Scholarship `2016,2018` <br>
