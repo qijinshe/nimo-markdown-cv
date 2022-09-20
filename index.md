@@ -62,21 +62,21 @@ _The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 
 
 ## Projects
-Visual Computing Research Center, Shenzhen University
+**Visual Computing Research Center, Shenzhen University** <br>
 Project 1: Reaching-and-Grasping Planning with Dexterous Hand
 _Project Leader_
 
 
-iGRAPE Lab, NUDT
+iGRAPE Lab, NUDT <br>
 Project 2: Online 3D Bin Packing Problem
 _Project Co-Leader_
 
 
-## Experience
+<!-- ## Experience
 
 ### **Shenzhen University, Visual Computing Research Center** `2021.3 - 2022.3`
 
-_Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang)
+_Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang) -->
 
 
 ## Honors & Awards
