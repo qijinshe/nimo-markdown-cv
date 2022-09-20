@@ -95,7 +95,7 @@ Bronze Medal in the ACM-ICPC Asia Regional Contest Nanning Site `2017` <br>
 Second Prize in National College Students Mathematics Competition `2016` <br>
 
 
-## TEACHING
+## **TEACHING**
 Teaching Assistant, **Data Structure and algorithm** `NUDT, 2020` <br>
 Teaching Assistant, **Seminar on research methods and academic writing in computational science** `NUDT, 2020` <br>
 
