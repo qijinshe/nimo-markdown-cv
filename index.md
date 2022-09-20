@@ -10,7 +10,7 @@ homepage:
 phone: +86 178 6415 4896
 ---
 
-# Qijin She
+## Qijin She
 
 <!--
 include contact information from the front matter
