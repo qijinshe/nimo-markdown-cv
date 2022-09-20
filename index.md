@@ -8,8 +8,8 @@ homepage:
   url: http://qijinshe.github.io
   text: qijinshe.github.io
 phone:
+  url:
   text: +86 17864154680
-
 ---
 
 # Qijin She
