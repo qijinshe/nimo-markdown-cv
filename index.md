@@ -61,17 +61,15 @@ _The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 
 ## **Research Experience**
 
-### Project 1: Reaching-and-grasping planning with the Dexterous Hand `Octorber 2020 - January 2022` <br>
-#### Visual Computing Research Center, Shenzhen University <br>
-Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu <br>
+### **Project 1: Reaching-and-grasping planning with the Dexterous Hand** `Octorber 2020 - January 2022` <br>
+Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu Visual `Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
 * transfered a prototype thought into a clear,specific and feasible method and implemented it.
 * analysed and evaluated the method under the guidance of advisors.
 * participated in the the writing of the paper. 
 
-### Project 2: Online 3D Bin Packing Problem `August 2019 - October 2020`<br>
-#### iGRAPE Lab, Nation University of Defense Technology <br>
-Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu <br>
+### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
+Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
 _Project Co-Leader_ <br>
 * designed and implemented the basic packing method.
 * extended the basic method to the lookahead setting and multi-bin setting.
