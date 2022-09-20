@@ -63,12 +63,12 @@ _The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 
 ## Projects
 **Visual Computing Research Center, Shenzhen University** <br>
-Project 1: Reaching-and-Grasping Planning with Dexterous Hand
+Project 1: Reaching-and-Grasping Planning with the Dexterous Hand `Octorber 2020 - January 2022`
 _Project Leader_
 
 
-iGRAPE Lab, NUDT <br>
-Project 2: Online 3D Bin Packing Problem
+**iGRAPE Lab, NUDT** <br>
+Project 2: Online 3D Bin Packing Problem `August 2019 - October 2020`
 _Project Co-Leader_
 
 
