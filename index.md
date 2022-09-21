@@ -42,7 +42,7 @@ Jinan, Shandong, China
 - B.S. in Software Engineering, _Top 3%_
 - Data Science track
 
-## **Research Interests**
+## **Publications**
 
 ### Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang.
