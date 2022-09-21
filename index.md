@@ -93,8 +93,8 @@ Second Prize in National College Students Mathematics Competition `2016` <br> --
 
 
 ## **TEACHING**
-Data Structure and algorithm `Teaching Assistant, NUDT, 2020` <br>
-Seminar on research methods and academic writing in computational science `Teaching Assistant, NUDT, 2020` <br>
+Data Structure and Algorithm `Teaching Assistant, NUDT, 2020` <br>
+Seminar on Research Methods and Academic Writing in Computational Science `Teaching Assistant, NUDT, 2020` <br>
 
 ## **PROFESSIONAL COURSES**
 Advanced Computer Architecture, Artificial Intelligence, Computing Geometry, Computer Graphics, Machine Learning, Reinforcement Learning, Software Engineering, Parallel Computing, Data Mining <br>
