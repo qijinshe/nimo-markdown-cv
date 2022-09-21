@@ -62,7 +62,7 @@ _The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 ## **Research Experience**
 
 ### **Project 1: Reaching-and-grasping planning with the Dexterous Hand** `Octorber 2020 - January 2022` <br>
-Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu Visual `Computing Research Center, Shenzhen Universit`<br>
+Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
 * transfered a prototype thought into a clear,specific and feasible method and implemented it.
 * analysed and evaluated the method under the guidance of advisors.
@@ -93,11 +93,15 @@ Second Prize in National College Students Mathematics Competition `2016` <br>
 
 
 ## **TEACHING**
-Teaching Assistant, **Data Structure and algorithm** `NUDT, 2020` <br>
-Teaching Assistant, **Seminar on research methods and academic writing in computational science** `NUDT, 2020` <br>
+Data Structure and algorithm `Teaching Assistant, NUDT, 2020` <br>
+Seminar on research methods and academic writing in computational science `Teaching Assistant, NUDT, 2020` <br>
 
-## **TEACHING**
+## **PROFESSIONAL COURSES**
+Advanced Computer Architecture, Artificial Intelligence, Computing Geometry, Computer Graphics, Machine Learning, Reinforcement Learning, Software Engineering, Parallel computing <br>
 
+Operating System,  Data Structure and Algorithms, Computer Architecture <br>
+
+Calculus, Linear Algebra, Stochastic process, Statistical Decision Theory and Bayesian Analysis <br>
 
 <!-- ### Footer
 
