@@ -40,7 +40,7 @@ Jinan, Shandong, China
 ```
 
 - B.S. in Software Engineering, _Top 3%_
-- Data Science track
+<!-- - Data Science track -->
 
 ## **Publications**
 
