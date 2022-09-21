@@ -97,11 +97,11 @@ Data Structure and algorithm `Teaching Assistant, NUDT, 2020` <br>
 Seminar on research methods and academic writing in computational science `Teaching Assistant, NUDT, 2020` <br>
 
 ## **PROFESSIONAL COURSES**
-Advanced Computer Architecture, Artificial Intelligence, Computing Geometry, Computer Graphics, Machine Learning, Reinforcement Learning, Software Engineering, Parallel computing <br>
+Advanced Computer Architecture, Artificial Intelligence, Computing Geometry, Computer Graphics, Machine Learning, Reinforcement Learning, Software Engineering, Parallel Computing, Data Mining <br>
 
-Operating System,  Data Structure and Algorithms, Computer Architecture <br>
+Computer Architecture, Computer Network, Data Structure and Algorithms, Operating System <br>
 
-Calculus, Linear Algebra, Stochastic process, Statistical Decision Theory and Bayesian Analysis <br>
+Calculus, Linear Algebra, Discrete Mathematics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
 
 <!-- ### Footer
 
