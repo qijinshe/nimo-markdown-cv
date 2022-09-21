@@ -88,8 +88,8 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 Outstanding Postgraduate Award `2020` <br>
 The Linglong Scholarship `2016,2018` <br>
 The First Prize Scholarship `2016,2018` <br>
-Bronze Medal in the ACM-ICPC Asia Regional Contest `2017` <br>
-Second Prize in National College Students Mathematics Competition `2016` <br>
+<!-- Bronze Medal in the ACM-ICPC Asia Regional Contest `2017` <br>
+Second Prize in National College Students Mathematics Competition `2016` <br> -->
 
 
 ## **TEACHING**
