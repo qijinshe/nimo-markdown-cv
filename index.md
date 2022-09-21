@@ -66,7 +66,6 @@ Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu Visual `Computing Res
 _Project Leader_ <br>
 * transfered a prototype thought into a clear,specific and feasible method and implemented it.
 * analysed and evaluated the method under the guidance of advisors.
-* participated in the the writing of the paper. 
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
@@ -74,7 +73,7 @@ _Project Co-Leader_ <br>
 * designed and implemented the basic packing method.
 * extended the basic method to the lookahead setting and multi-bin setting.
 * developed the user-study app and collected user test data.
-* participated in the validation and evaluation of the method as well as the writing of the paper.
+* participated in the validation and evaluation of the method.
 
 
 <!-- ## Experience
@@ -89,13 +88,15 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 Outstanding Postgraduate Award `2020` <br>
 The Linglong Scholarship `2016,2018` <br>
 The First Prize Scholarship `2016,2018` <br>
-Bronze Medal in the ACM-ICPC Asia Regional Contest Nanning Site `2017` <br>
+Bronze Medal in the ACM-ICPC Asia Regional Contest `2017` <br>
 Second Prize in National College Students Mathematics Competition `2016` <br>
 
 
 ## **TEACHING**
 Teaching Assistant, **Data Structure and algorithm** `NUDT, 2020` <br>
 Teaching Assistant, **Seminar on research methods and academic writing in computational science** `NUDT, 2020` <br>
+
+## **TEACHING**
 
 
 <!-- ### Footer
