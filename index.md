@@ -22,7 +22,10 @@ Supported arguments:
 
 {% include cv-contact.html %}
 ## **Introduction**
-This is Qijin She, a Master Student at National University of Defense Technology. My research interests are in Reinforcement learning, Computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
+This is Qijin She, a Master Student at National University of Defense Technology. 
+<br><br>
+
+My research interests are in Reinforcement learning, Computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
 
 ## **Education**
 
