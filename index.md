@@ -103,7 +103,8 @@ Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
 Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
 
 ## **Skills**
-Programming: 
+Programming: Python, LATEX, C++, C, ROS1, Shell, JAVA
+Tools: Blender, Pybullet, Meshlab, Scrapy, Adobe Photoshop
 
 ## **Courses**
 **Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br><br>
