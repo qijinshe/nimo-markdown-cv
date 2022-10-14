@@ -102,8 +102,8 @@ Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
 Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
 
 ## **Skills**
-Programming: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
-Tools: Blender, Pybullet, Meshlab, Scrapy, Adobe Photoshop <br>
+**Programming**: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
+**Tools**: Blender, Pybullet, Meshlab, Scrapy, Adobe Photoshop <br>
 
 ## **Courses**
 **Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
