@@ -46,7 +46,7 @@ Jinan, Shandong, China
 
 ### Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
-_ACM Transactions on Graphics (SIGGRAPH’ 22)._
+_ACM Transactions on Graphics (SIGGRAPH’ 22)._ <br>
 [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
@@ -54,7 +54,7 @@ _ACM Transactions on Graphics (SIGGRAPH’ 22)._
 
 ### Online 3D bin packing with constrained deep reinforcement learning <br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
-_In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
+_In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._ <br>
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
@@ -64,7 +64,9 @@ _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 202
 ### **Project 1: Reaching-and-grasping planning with the Dexterous Hand** `Octorber 2020 - January 2022` <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
-* transfered a prototype thought into a clear,specific and feasible method and implemented it.
+* transfered a prototype thought into a clear and specific problem.
+* designed a customized RL-based approach well utilized the characteristics of the problem
+* built the whole system, from the main approach to the grasp simulator.
 * analysed and evaluated the method under the guidance of advisors.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
@@ -85,21 +87,22 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 
 ## **Honors & Awards**
 
+Best Poster Award at CAD&CG 2022 `2022` <br>
 Outstanding Postgraduate Award `2020` <br>
 The Linglong Scholarship `2016,2018` <br>
 The First Prize Scholarship `2016,2018` <br>
-<!-- Bronze Medal in the ACM-ICPC Asia Regional Contest `2017` <br>
-Second Prize in National College Students Mathematics Competition `2016` <br> -->
+First Prize in Shandong Provincial Collegiate Programming Contest `2017`<br>
+Second Prize in National College Students Mathematics Competition `2016` <br>
 
 
 ## **TEACHING**
 Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
 Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
 
-## **PROFESSIONAL COURSES**
-Computer Architecture, Artificial Intelligence, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning, Software Engineering, Software Testing, Web Data Management <br>
+## **COURSES**
+Professional courses: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br><br>
 
-Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
+Math courses: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br><br>
 
 <!-- ### Footer
 
