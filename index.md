@@ -22,9 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 ## **Introduction**
-This is Qijin She, a Master Student at National University of Defense Technology. <br>
-
-My research interests are in reinforcement learning, computer graphics and robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
+This is Qijin She, a Master Student at National University of Defense Technology. My research interests are in Reinforcement learning, Computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
 
 ## **Education**
 
@@ -73,7 +71,6 @@ _Project Leader_ <br>
 * designed a customized RL-based approach well utilized the characteristics of the problem
 * built the whole system, from the main approach to the grasp simulator.
 * analysed and evaluated the method under the guidance of advisors.
-<br>
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
@@ -82,7 +79,6 @@ _Project Co-Leader_ <br>
 * extended the basic method to the lookahead setting and multi-bin setting.
 * developed the user-study app and collected user test data.
 * participated in the validation and evaluation of the method.
-<br>
 
 <!-- ## Experience
 
@@ -110,9 +106,11 @@ Programming: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
 Tools: Blender, Pybullet, Meshlab, Scrapy, Adobe Photoshop <br>
 
 ## **Courses**
+**Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br><br>
+
 **Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br><br>
 
-**Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br><br>
+
 
 <!-- ### Footer
 
