@@ -31,7 +31,7 @@ Changsha, Hunan, China
 ```
 
 - M.S. in Computer Science,
-- Supervised by [Kai Xu](https://kevinkaixu.net/)
+- Supervised by Prof. [Kai Xu](https://kevinkaixu.net/)
 
 ### Shandong University `2015.9 - 2019.6`
 
@@ -45,16 +45,16 @@ Jinan, Shandong, China
 ## **Publications**
 
 ### Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction <br>
-**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang.
-_ACM Transactions on Graphics (SIGGRAPH 22)._
+**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
+_ACM Transactions on Graphics (SIGGRAPH’ 22)._
 [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
 
 
 ### Online 3D bin packing with constrained deep reinforcement learning <br>
-Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. 
-_The 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
+Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
+_In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
@@ -93,15 +93,13 @@ Second Prize in National College Students Mathematics Competition `2016` <br> --
 
 
 ## **TEACHING**
-Data Structure and Algorithm `Teaching Assistant, NUDT, 2020` <br>
-Seminar on Research Methods and Academic Writing in Computational Science `Teaching Assistant, NUDT, 2020` <br>
+Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
+Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
 
 ## **PROFESSIONAL COURSES**
-Advanced Computer Architecture, Artificial Intelligence, Computing Geometry, Computer Graphics, Machine Learning, Reinforcement Learning, Software Engineering, Parallel Computing, Data Mining <br>
+Computer Architecture, Artificial Intelligence, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning, Software Engineering, Software Testing, Web Data Management <br>
 
-Computer Architecture, Computer Network, Data Structure and Algorithms, Operating System <br>
-
-Calculus, Linear Algebra, Discrete Mathematics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
+Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
 
 <!-- ### Footer
 
