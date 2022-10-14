@@ -21,6 +21,8 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+## **Self Introduction**
+My name is Qijin She. A Master Student at National University of Defense Technology. My research interests are in reinforcement learning, computer graphics and robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
 
 ## **Education**
 
@@ -39,7 +41,8 @@ Changsha, Hunan, China
 Jinan, Shandong, China
 ```
 
-- B.S. in Software Engineering, _Top 3%_
+- B.S. in Software Engineering, _Top 3% (8/292)_
+- Data Science Track
 <!-- - Data Science track -->
 
 ## **Publications**
@@ -88,21 +91,24 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 ## **Honors & Awards**
 
 Best Poster Award at CAD&CG 2022 `2022` <br>
-Outstanding Postgraduate Award `2020` <br>
+Outstanding Postgraduate Scholarship `2020` <br>
 The Linglong Scholarship `2016,2018` <br>
 The First Prize Scholarship `2016,2018` <br>
 First Prize in Shandong Provincial Collegiate Programming Contest `2017`<br>
 Second Prize in National College Students Mathematics Competition `2016` <br>
 
 
-## **TEACHING**
+## **Teaching**
 Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
 Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
 
-## **COURSES**
-Professional courses: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br><br>
+## **Skills**
+Programming: 
 
-Math courses: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br><br>
+## **Courses**
+**Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br><br>
+
+**Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br><br>
 
 <!-- ### Footer
 
