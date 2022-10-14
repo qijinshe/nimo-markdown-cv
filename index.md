@@ -32,7 +32,7 @@ This is Qijin She, a Master Student at National University of Defense Technology
 Changsha, Hunan, China
 ```
 
-- M.S. in Computer Science,
+- M.S. in Computer Science
 - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/)
 
 ### Shandong University `2015.9 - 2019.6`
@@ -89,12 +89,12 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 
 ## **Honors & Awards**
 
-Best Poster Award at CAD&CG 2022 `2022` <br>
+Best Poster Award at CAD&CG 2022 (_Top 5 Popular Poster_) `2022` <br>
 Outstanding Postgraduate Scholarship `2020` <br>
-The Linglong Scholarship `2016,2018` <br>
-The First Prize Scholarship `2016,2018` <br>
-First Prize in Shandong Provincial Collegiate Programming Contest `2017`<br>
-Second Prize in National College Students Mathematics Competition `2016` <br>
+The Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
+The First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
+First Prize in Shandong Provincial Collegiate Programming Contest (_Top 10%_) `2017`<br>
+Second Prize in National College Students Mathematics Competition (_Top 20%_)`2016` <br>
 
 
 ## **Teaching**
@@ -106,9 +106,9 @@ Programming: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
 Tools: Blender, Pybullet, Meshlab, Scrapy, Adobe Photoshop <br>
 
 ## **Courses**
-**Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br><br>
+**Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
 
-**Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br><br>
+**Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br>
 
 
 
