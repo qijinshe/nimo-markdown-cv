@@ -102,7 +102,10 @@ Second Prize in National College Students Mathematics Competition (_Top 20%_)`20
 Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
 Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
 
-## ****
+## **Service**
+
+### Journal Reviewer
+* Computational Visual Media
 
 ## **Skills**
 **Programming**: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
