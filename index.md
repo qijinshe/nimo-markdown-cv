@@ -22,7 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 ## **Introduction**
-This is Qijin She, a master student at National University of Defense Technology <br>
+This is Qijin She, a master student at National University of Defense Technology. <br>
 My research interests are in Reinforcement learning, Computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
 
 ## **Education**
@@ -47,7 +47,7 @@ Jinan, Shandong, China
 <!-- - Data Science track -->
 
 ## **Publications**
-
+<!-- * indicates equal contribution -->
 ### Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
 _ACM Transactions on Graphics (SIGGRAPH’ 22)._ <br>
@@ -101,6 +101,8 @@ Second Prize in National College Students Mathematics Competition (_Top 20%_)`20
 ## **Teaching**
 Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
 Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
+
+## ****
 
 ## **Skills**
 **Programming**: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
