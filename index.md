@@ -91,6 +91,7 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 ## **Honors & Awards**
 
 Best Poster Award at CAD&CG 2022 (_Top 10 Popular Poster_) `2022` <br>
+Excellent Graduate Student Award (_Top 25%_) `2021` <br>
 Outstanding Postgraduate Scholarship `2020` <br>
 The Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
 The First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
@@ -104,7 +105,7 @@ Teaching Assistant, Seminar on Research Methods and Academic Writing in Computat
 
 ## **Service**
 
-### Journal Reviewer
+### **Journal Reviewer**
 * Computational Visual Media
 
 ## **Skills**
