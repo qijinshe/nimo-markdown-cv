@@ -7,7 +7,7 @@ email:
 homepage:
   url: http://qijinshe.github.io
   text: qijinshe.github.io
-phone: +86 178 6415 4896
+phone: +86 178 6415 4680
 ---
 
 # Qijin She
