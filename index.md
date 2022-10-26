@@ -67,16 +67,15 @@ _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 202
 ### **Project 1: Reaching-and-grasping planning with the Dexterous Hand** `Octorber 2020 - January 2022` <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
-* transfered a prototype thought into a clear and specific problem.
-* designed a customized RL-based approach well utilized the characteristics of the problem
-* built the whole system, from the main approach to the grasp simulator.
+* transfered a prototype thought into a clear and specific problem and designed a RL-based approach to solve it.
+* built the whole system, from the learning approach to the grasp simulation.
 * analysed and evaluated the method under the guidance of advisors.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
 _Project Co-Leader_ <br>
 * designed and implemented the basic packing method.
-* extended the basic method to the lookahead setting and multi-bin setting.
+* extended the basic method to the more complicated settings.
 * developed the user-study app and collected user test data.
 * participated in the validation and evaluation of the method.
 
