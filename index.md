@@ -68,7 +68,7 @@ _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 202
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
 * transfered a prototype thought into a clear and specific problem.
-* designed a customized RL-based approach well utilized the characteristics of the Reaching-and-grasping problem
+* designed a customized RL-based approach utilized the characteristics of this problem
 * built the whole system, from the learning method to the grasp simulation.
 * analysed and evaluated the method under the guidance of advisors.
 
