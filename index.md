@@ -22,7 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 ## **Introduction**
-My research interests are in Reinforcement learning, Computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
+My research interests are in reinforcement learning, computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
 
 ## **Education**
 
@@ -42,7 +42,7 @@ Changsha, Hunan, China
 Jinan, Shandong, China
 ```
 
-- B.S. in Software Engineering, _Top 3% (8/292)_
+- B.S. in Software Engineering, _Top 3%_
 - Data Science Track
 <!-- - Data Science track -->
 
@@ -71,7 +71,7 @@ _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 202
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
 * introcuded a novel geometric state representation to guide the hand motions.
-* designed a customized RL-based approach to solve the reaching-and-grasping task.
+* designed a customized reinforcement learning approach to solve the reaching-and-grasping task.
 * built the whole system, from the learning method to the grasp simulation.
 * analysed and evaluated the method under the guidance of advisors.
 
@@ -79,7 +79,7 @@ _Project Leader_ <br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
 _Project Co-Leader_ <br>
 * designed and implemented the basic online packing method.
-* extended the basic packing method to the lookahead setting.
+* extended the basic packing method to the lookahead setting with a modified Monte Carlo Tree Search (MCTS) method.
 * developed the user-study app and collected user test data.
 * participated in the validation and evaluation of the method.
 
