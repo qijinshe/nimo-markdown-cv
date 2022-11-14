@@ -33,7 +33,8 @@ Changsha, Hunan, China
 ```
 
 - M.S. in Computer Science
-- Supervised by Prof. [Kai Xu](https://kevinkaixu.net/)
+<!-- - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/) -->
+- Supervised by Prof. Kai Xu
 
 ### Shandong University `2015.9 - 2019.6`
 
@@ -50,16 +51,18 @@ Jinan, Shandong, China
 ### Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
 _ACM Transactions on Graphics (SIGGRAPH’ 22)._ 
-[[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
+<!-- [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
-[[Code](https://github.com/qijinshe/IBS-Grasping)] <br>
+[[Code](https://github.com/qijinshe/IBS-Grasping)]  -->
+<br>
 
 
 ### Online 3D bin packing with constrained deep reinforcement learning <br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._ 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
-[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]<br>
+<!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
+[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
+<br>
 
 
 ## **Research Experience**
