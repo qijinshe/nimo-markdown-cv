@@ -21,8 +21,8 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
-## **Introduction**
-My research interests are in reinforcement learning, computer graphics and robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
+<!-- ## **Introduction**
+My research interests are in reinforcement learning, computer graphics and robotics, with a focus on applying learning methods to robotic manipulation and animation generation. -->
 
 ## **Education**
 
