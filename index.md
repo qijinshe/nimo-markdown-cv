@@ -79,7 +79,7 @@ _Project Leader_ <br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
 _Project Co-Leader_ <br>
 * designed and implemented the basic online packing method.
-* extended the basic packing method to the lookahead setting with a modified Monte Carlo Tree Search (MCTS) method.
+* extended the basic packing method to the lookahead setting with a modified MCTS method.
 * developed the user-study app and collected user test data.
 * participated in the validation and evaluation of the method.
 
