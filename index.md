@@ -22,7 +22,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 ## **Introduction**
-My research interests are in reinforcement learning, computer graphics and Robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
+My research interests are in reinforcement learning, computer graphics and robotics, with a focus on applying learning methods to robotic manipulation and animation generation.
 
 ## **Education**
 
@@ -32,7 +32,7 @@ My research interests are in reinforcement learning, computer graphics and Robot
 Changsha, Hunan, China
 ```
 
-- M.S. in Computer Science
+- M.S. in Computer Science,
 <!-- - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/) -->
 - Supervised by Prof. Kai Xu
 
@@ -79,7 +79,7 @@ _Project Leader_ <br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
 _Project Co-Leader_ <br>
 * designed and implemented the basic online packing method.
-* extended the basic packing method to the lookahead setting with a modified MCTS method.
+* extended the basic packing method to the lookahead setting.
 * developed the user-study app and collected user test data.
 * participated in the validation and evaluation of the method.
 
@@ -117,7 +117,7 @@ Teaching Assistant, Seminar on Research Methods and Academic Writing in Computat
 ## **Courses**
 **Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
 
-**Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br>
+**Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human-Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br>
 
 
 
