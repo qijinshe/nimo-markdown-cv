@@ -48,7 +48,7 @@ Jinan, Shandong, China
 
 ## **Publications**
 <!-- * indicates equal contribution -->
-### Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction <br>
+### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
 _ACM Transactions on Graphics (SIGGRAPH’ 22)._ 
 <!-- [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
@@ -57,7 +57,7 @@ _ACM Transactions on Graphics (SIGGRAPH’ 22)._
 <br>
 
 
-### Online 3D bin packing with constrained deep reinforcement learning <br>
+### **Online 3D bin packing with constrained deep reinforcement learning** <br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._ 
 <!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
@@ -112,7 +112,7 @@ Teaching Assistant, Seminar on Research Methods and Academic Writing in Computat
 
 ## **Skills**
 **Programming**: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
-**Tools**: Blender, Pybullet, Meshlab, Scrapy, Adobe Photoshop <br>
+**Tools**: Blender, Pybullet, Meshlab, Scrapy, Photoshop <br>
 
 ## **Courses**
 **Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
