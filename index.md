@@ -63,7 +63,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 #### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
 <!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
-* Proposed a new learning method based on constrained reinforcement learning and modified Monte Carlo Tree Search (MCTS) to solve online 3D bin packing problem in which only the first k items are known and items' sequence can’t be changed. 
+* Proposed a new learning method based on constrained reinforcement learning and modified Monte Carlo Tree Search (MCTS) to solve online 3D bin packing problem in which only the first k items are known and fixed.
 
 ## **Research Experience**
 
