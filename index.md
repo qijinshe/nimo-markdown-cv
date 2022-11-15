@@ -60,7 +60,7 @@ to train policy model using this representation to solve the High-DOF reaching-a
 
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
-Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `_In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 2021)._` <br> 
+Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `_In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._` <br> 
 <!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
 <br>
