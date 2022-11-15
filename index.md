@@ -50,21 +50,19 @@ Jinan, Shandong, China
 <!-- * indicates equal contribution -->
 ### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
-#### _ACM Transactions on Graphics (SIGGRAPH’ 22)._ ####
+#### _ACM Transactions on Graphics (SIGGRAPH’ 22)._
 <!-- [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]  -->
-<br>
 * Proposed a novel geometric representation that dynamically characterizes spatial relation of hands and objects, and a learning method
 to train policy model using this representation to solve the High-DOF reaching-and-grasping task.
 
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
-#### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ ####
+#### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
 <!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
-<br>
 * Proposed a new learning method based on constrained reinforcement learning and modified Monte Carlo Tree Search (MCTS) to solve online 3D bin packing problem in which only the first k items are known and items' sequence can’t be changed. 
 
 ## **Research Experience**
