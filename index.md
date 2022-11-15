@@ -55,8 +55,8 @@ _ACM Transactions on Graphics (SIGGRAPH’ 22)._
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]  -->
 <br>
-#### Proposed a novel geometric representation that dynamically characterizes spatial relation of hands and objects, and a learning method
-  to train policy model using this representation to solve the High-DOF reaching-and-grasping task. #### 
+* Proposed a novel geometric representation that dynamically characterizes spatial relation of hands and objects, and a learning method \
+to train policy model using this representation to solve the High-DOF reaching-and-grasping task.
 
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
@@ -65,9 +65,7 @@ _In Processings of the 35th AAAI Conference of Artificial Intelligence (AAAI 202
 <!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
 <br>
-#### Proposed a new learning method based on constrained reinforcement learning and modified Monte Carlo Tree Search (MCTS) to 
-  solve online 3D bin packing problem in which only the first k items are known and items' sequence can’t be changed. #### 
-
+* Proposed a new learning method based on constrained reinforcement learning and modified Monte Carlo Tree Search (MCTS) to solve online 3D bin packing \problem in which only the first k items are known and items' sequence can’t be changed. 
 
 ## **Research Experience**
 
