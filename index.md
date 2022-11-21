@@ -26,7 +26,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 
 ## **Education**
 
-### Nation University of Defense Technology `2019.9 - 2022.6`
+### National University of Defense Technology `2019.9 - 2022.6`
 
 ```
 Changsha, Hunan, China
