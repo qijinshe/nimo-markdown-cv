@@ -54,8 +54,8 @@ Jinan, Shandong, China
 <!-- [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]  -->
-* Proposed a novel geometric representation that dynamically characterizes spatial relation of hands and objects, and a learning method
-to train policy model using this representation to solve the High-DOF reaching-and-grasping task.
+* Proposed a novel geometric representation that dynamically characterizes spatial relation of hands and objects, as well as a learning method
+to train control model using this representation to solve the High-DOF reaching-and-grasping task.
 
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
@@ -63,14 +63,14 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 #### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
 <!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
-* Proposed a new learning method based on constrained reinforcement learning and modified Monte Carlo Tree Search (MCTS) to solve online 3D bin packing problem in which only the first k items are known and fixed.
+* Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and fixed.
 
 ## **Research Experience**
 
 ### **Project 1: Reaching-and-grasping planning for the Dexterous Hand** `Octorber 2020 - January 2022` <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
-* introcuded a novel geometric state representation to guide the hand motions.
+* introcuded a novel geometric state representation to guide dexterous hand motions.
 * designed a customized reinforcement learning approach to solve the reaching-and-grasping task.
 * built the whole system, from the learning method to the grasp simulation.
 * analysed and evaluated the method under the guidance of advisors.
