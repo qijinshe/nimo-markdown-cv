@@ -70,17 +70,17 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 ### **Project 1: Reaching-and-grasping planning for the Dexterous Hand** `Octorber 2020 - January 2022` <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
-* introcuded a novel geometric state representation to guide dexterous hand motions.
-* designed a customized reinforcement learning approach to solve the reaching-and-grasping task.
+* introcuded a novel geometric state representation to characterize hand-object interactions.
+* designed a customized reinforcement learning approach using vectorized reward functions and imperfact demonstrations.
 * built the whole system, from the learning method to the grasp simulation.
 * analysed and evaluated the method under the guidance of advisors.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
 _Project Co-Leader_ <br>
-* designed and implemented the basic online packing method.
-* extended the basic packing method to the lookahead setting.
-* developed the user-study app and collected user test data.
+* designed and implemented the basic online packing method in the"First one item known" setting.
+* extended the packing method to the "First k item known" setting.
+* developed an user-study app and collected user test data.
 * participated in the validation and evaluation of the method.
 
 <!-- ## Experience
