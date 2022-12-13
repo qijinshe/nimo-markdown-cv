@@ -55,7 +55,7 @@ Jinan, Shandong, China
 [[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]  -->
 * Proposed a novel geometric representation that dynamically characterizes spatial relation of hands and objects, as well as a learning method
-to train control model using this representation to solve the High-DOF reaching-and-grasping task.
+to train a policy model using this representation to solve the High-DOF reaching-and-grasping task.
 
 
 ### **Online 3D bin packing with constrained deep reinforcement learning** <br>
@@ -71,9 +71,9 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
 * introduced a novel geometric state representation to characterize hand-object interactions.
-* designed a customized reinforcement learning approach using vectorized reward functions and imperfact demonstrations.
+* designed a customized reinforcement learning approach using vectorized reward functions and imperfect demonstrations.
 * built the whole system, from the learning method to the grasp simulation.
-* analysed and evaluated the proposed method under the guidance of advisors.
+* analyzed and evaluated the proposed method under the guidance of advisors.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
@@ -93,10 +93,11 @@ _Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staf
 ## **Honors & Awards**
 
 Best Poster Award at CCF CAD&CG 2022 (_Top 10 Popular Poster_) `2022` <br>
+National Scholarship Finalist (_Top 2.5%_) `2018,2021`  <br>
 Excellent Graduate Student Award (_Top 25%_) `2021` <br>
 Outstanding Postgraduate Scholarship `2020` <br>
-The Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
-The First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
+Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
+First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
 First Prize in Shandong Provincial Collegiate Programming Contest (_Top 10%_) `2017`<br>
 Second Prize in National College Students Mathematics Competition (_Top 20%_)`2016` <br>
 
