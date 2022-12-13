@@ -97,8 +97,8 @@ National Scholarship Finalist (_Top 2.5%_) `2018,2021`  <br>
 Excellent Graduate Student Award (_Top 25%_) `2021` <br>
 Outstanding Postgraduate Scholarship `2020` <br>
 Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
-First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
-First Prize in Shandong Provincial Collegiate Programming Contest (_Top 10%_) `2017`<br>
+The First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
+The First Prize in Shandong Provincial Collegiate Programming Contest (_Top 10%_) `2017`<br>
 Second Prize in National College Students Mathematics Competition (_Top 20%_)`2016` <br>
 
 
