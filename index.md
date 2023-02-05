@@ -67,7 +67,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 
 ## **Research Experience**
 
-### **Project 1: Reaching-and-grasping planning for the Dexterous Hand** `Octorber 2020 - January 2022` <br>
+### **Project 1: Reaching-and-grasping Planning for Dexterous Hand** `Octorber 2020 - January 2022` <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen Universit`<br>
 _Project Leader_ <br>
 * introduced a novel geometric state representation to characterize hand-object interactions.
