@@ -32,7 +32,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 Changsha, Hunan, China
 ```
 
-- M.S. in Computer Science,
+- M.Sc. in Computer Science; _GPA: 3.73/4.0_
 <!-- - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/) -->
 - Supervised by Prof. Kai Xu
 
@@ -42,7 +42,7 @@ Changsha, Hunan, China
 Jinan, Shandong, China
 ```
 
-- B.Eng. in Software Engineering, _Top 3%_
+- B.Eng. in Software Engineering; _GPA: 89.4/100 (Ranking 8/294)_
 - Data Science Track
 <!-- - Data Science track -->
 
@@ -83,12 +83,6 @@ _Project Co-Leader_ <br>
 * developed a user-study app and collected user test data.
 * participated in the validation and evaluation of the proposed method.
 
-<!-- ## Experience
-
-### **Shenzhen University, Visual Computing Research Center** `2021.3 - 2022.3`
-
-_Research Assistant_, Advised by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang) -->
-
 
 ## **Honors & Awards**
 
@@ -103,10 +97,10 @@ Second Prize in National College Students Mathematics Competition (_Top 20%_)`20
 
 
 ## **Teaching**
-Teaching Assistant, Data Structure and Algorithm `NUDT, 2020` <br>
-Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, 2020` <br>
+Teaching Assistant, Data Structure and Algorithm `NUDT, Fall 2020` <br>
+Teaching Assistant, Seminar on Research Methods and Academic Writing in Computational Science `NUDT, Spring 2020` <br>
 
-## **Service**
+## **Services**
 
 ### **Journal Reviewer**
 * Computational Visual Media `2022`
