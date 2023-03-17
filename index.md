@@ -32,7 +32,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 Changsha, Hunan, China
 ```
 
-- M.Sc. in Computer Science; _GPA: 3.73/4.0_
+- M.Sc. in Computer Science
 <!-- - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/) -->
 - Supervised by Prof. Kai Xu
 
@@ -42,8 +42,8 @@ Changsha, Hunan, China
 Jinan, Shandong, China
 ```
 
-- B.Eng. in Software Engineering; _GPA: 89.4/100 (Ranking 8/294)_
-- Data Science Track
+- B.Eng. in Software Engineering
+- Ranking 8/294
 <!-- - Data Science track -->
 
 ## **Publications**
