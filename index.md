@@ -72,7 +72,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 ## **Awards & Scholarships**
 
 The Best Poster Award at CCF CAD&CG 2022 (_Top 10 Popular Poster_) `2022` <br>
-The National Scholarship for Graduates Finalist (_Ranking 5/354_) `2021` <br>
+The National Scholarship for Postgraduates Finalist (_Ranking 5/354_) `2021` <br>
 The Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
 The National Scholarship for undergraduates Finalist (_Ranking 5/294_) `2021`  <br>
 The Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
