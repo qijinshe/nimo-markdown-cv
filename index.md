@@ -12,14 +12,6 @@ phone: +86 178 6415 4680
 
 # Qijin She
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-
 {% include cv-contact.html %}
 <!-- ## **Introduction**
 My research interests are in reinforcement learning, computer graphics and robotics, with a focus on applying learning methods to robotic manipulation and animation generation. -->
@@ -33,7 +25,7 @@ Changsha, Hunan, China
 ```
 
 - M.Sc. in Computer Science
-<!-- - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/) -->
+- GPA: 3.73/4.0
 - Supervised by Prof. Kai Xu
 
 ### Shandong University `2015.9 - 2019.6`
@@ -43,57 +35,50 @@ Jinan, Shandong, China
 ```
 
 - B.Eng. in Software Engineering
-- Ranking 8/294
-<!-- - Data Science track -->
+- GPA: 89.4/100, Ranking 8/294
+- Advised by Prof. Weiguo Liu
 
-## **Publications**
-<!-- * indicates equal contribution -->
-### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
-**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
-#### _ACM Transactions on Graphics (SIGGRAPH’ 22)._
-<!-- [[PDF](https://arxiv.org/pdf/2204.13998.pdf)]
-[[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
-[[Code](https://github.com/qijinshe/IBS-Grasping)]  -->
-* Proposed a novel geometric representation that dynamically characterizes spatial relation of the hand and the object, as well as a learning method
-to train a policy model using the representation to solve the High-DOF reaching-and-grasping task.
-
-
-### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning** <br>
-Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
-#### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
-<!-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
-[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)] -->
-* Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
 
 ## **Research Experience**
 
 ### **Project 1: Reaching-and-grasping Planning for Dexterous Hand** `Octorber 2020 - January 2022` <br>
-Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu  `Visual Computing Research Center, Shenzhen University`<br>
+Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu `Visual Computing Research Center, Shenzhen University`<br>
 _Project Leader_ <br>
-* introduced a novel geometric state representation to characterize hand-object interactions.
-* designed a new reinforcement learning approach using vectorized reward functions and imperfect demonstrations.
-* built the whole system, from the learning method to the grasp simulation.
-* analyzed and evaluated the proposed method under the guidance of advisors.
+* introduced a novel geometric state representation to characterize hand-object interactions for grasping.
+* designed and implemented a novel reinforcement learning approach that can utilize vectorized reward functions and imperfect demonstrations.
+* built the physics-based grasp simulation system.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
-Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, Nation University of Defense Technology` <br>
+Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, National University of Defense Technology` <br>
 _Project Co-Leader_ <br>
-* designed and implemented the online packing method in the "First one item known" setting.
-* extended the packing method to the "First k item known" setting with modified MCTS.
-* developed a user-study app and collected user test data.
-* participated in the validation and evaluation of the proposed method.
+* designed and implemented a RL-based method for online 3D packing task.
+* extended the packing method to the looking-ahead setting with the modified Monte Carlo Tree Search method.
+* developed a simple user-study app to collected user test data.
 
 
-## **Honors & Awards**
+## **Publications**
+* indicates equal contribution
+### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
+**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
+#### _ACM Transactions on Graphics (SIGGRAPH’ 22)._
+* Proposed a novel geometric representation that dynamically characterizes spatial relation of the hand and the object, as well as a learning method
+to train a policy model using the representation to solve the High-DOF reaching-and-grasping task.
+
+### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning** <br>
+Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
+#### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
+* Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
+
+## **Awards & Scholarships**
 
 The Best Poster Award at CCF CAD&CG 2022 (_Top 10 Popular Poster_) `2022` <br>
-National Scholarship Finalist (_Top 2.5%_) `2018,2021`  <br>
-Excellent Graduate Student Award (_Top 25%_) `2021` <br>
-Outstanding Postgraduate Scholarship `2020` <br>
-Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
+The National Scholarship for Graduates Finalist (_Ranking 5/354_) `2021` <br>
+The Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
+The National Scholarship for undergraduates Finalist (_Ranking 5/294_) `2021`  <br>
+The Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
 The First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
 The First Prize in Shandong Provincial Collegiate Programming Contest (_Top 10%_) `2017`<br>
-Second Prize in National College Students Mathematics Competition (_Top 20%_)`2016` <br>
+The Second Prize in National College Students Mathematics Competition (_Top 20%_)`2016` <br>
 
 
 ## **Teaching**
