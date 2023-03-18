@@ -57,7 +57,7 @@ _Project Co-Leader_ <br>
 
 
 ## **Publications**
-* indicates equal contribution
+<!-- * indicates equal contribution -->
 ### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
 #### _ACM Transactions on Graphics (SIGGRAPH’ 22)._
