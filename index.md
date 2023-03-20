@@ -36,7 +36,7 @@ Jinan, Shandong, China
 
 - B.Eng. in Software Engineering
 - GPA: 89.4/100, Ranking 8/294
-- Advised by Prof. Weiguo Liu
+- Data Science Track
 
 
 ## **Research Experience**
@@ -71,14 +71,14 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 
 ## **Awards & Scholarships**
 
-The Best Poster Award at CCF CAD&CG 2022 (_Top 10 Popular Poster_) `2022` <br>
-The National Scholarship for Postgraduates Finalist (_Ranking 5/354_) `2021` <br>
+The Best Poster Award at CCF CAD&CG 2022 (_top 10 Popular Poster_) `2022` <br>
+The National Scholarship for Postgraduates Finalist (_ranking 5/354_) `2021` <br>
 The Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
-The National Scholarship for undergraduates Finalist (_Ranking 5/294_) `2021`  <br>
-The Linglong Scholarship (_Top 2.5%_) `2016,2018`  <br>
-The First Prize Scholarship (_Top 10%_) `2016,2018`  <br>
-The First Prize in Shandong Provincial Collegiate Programming Contest (_Top 10%_) `2017`<br>
-The Second Prize in National College Students Mathematics Competition (_Top 20%_)`2016` <br>
+The National Scholarship for Undergraduates Finalist (_ranking 5/294_) `2021`  <br>
+The Linglong Scholarship (_top 2.5%_) `2016,2018`  <br>
+The First Prize Scholarship (_top 10%_) `2016,2018`  <br>
+The First Prize in Shandong Provincial Collegiate Programming Contest (_top 10%_) `2017`<br>
+The Second Prize in National College Students Mathematics Competition (_top 20%_)`2016` <br>
 
 
 ## **Teaching**
