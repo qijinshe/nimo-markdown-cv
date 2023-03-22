@@ -76,7 +76,7 @@ Chinese National Scholarship for Postgraduates Finalist (_ranking 5/354 in Colle
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
 Chinese National Scholarship for Undergraduates Finalist (_ranking 5/292 in Colleage of Software_) `2021`  <br>
 Linglong Scholarship (_top 2.5% in the College of Software_) `2016,2018`  <br>
-First Prize Scholarship (_top 10% in the College of Software__) `2016,2018`  <br>
+First Prize Scholarship (_top 10% in the College of Software_) `2016,2018`  <br>
 
 ## **Teaching**
 Teaching Assistant, Data Structure and Algorithm `NUDT, Fall 2020` <br>
