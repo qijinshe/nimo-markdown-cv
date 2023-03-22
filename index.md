@@ -26,7 +26,7 @@ Changsha, Hunan, China
 
 - Master of Science (M.Sc.) in Computer Science and Technology
 - GPA: 3.73/4.0 (8/10 courses are the highest grades)
-- Supervised by Prof. Kai Xu
+- Supervised by Prof. [Kai Xu(https://kevinkaixu.net/)]
 - Master Thesis: Real-time Reaching-and-Grasping with Dynamic Interaction Geometry Representation
 
 ### **Shandong University** `2015.9 - 2019.6`
@@ -59,12 +59,12 @@ _Project Co-Leader_ <br>
 
 ## **Publications**
 <!-- * indicates equal contribution -->
-### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
+### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** [[Project](https://kevinkaixu.net/projects/ibsgrasp.html)]<br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. `ACM Transactions on Graphics (SIGGRAPH’22)`<br>
 Proposed a novel geometric representation that dynamically characterizes spatial relation of the hand and the object, as well as a learning method
 to train a policy model using the representation to solve the High-DOF reaching-and-grasping task.
 
-### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning**<br>
+### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]<br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `AAAI 2021` <br>
 Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
 
