@@ -74,7 +74,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
 Chinese National Scholarship for Postgraduates Finalist (_ranking 5/354 in Colleage of Computer_) `2021` <br>
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
-Chinese National Scholarship for Undergraduates Finalist (_ranking 5/292 in Colleage of Software _) `2021`  <br>
+Chinese National Scholarship for Undergraduates Finalist (_ranking 5/292 in Colleage of Software_) `2021`  <br>
 Linglong Scholarship (_top 2.5% in the College of Software_) `2016,2018`  <br>
 First Prize Scholarship (_top 10% in the College of Software__) `2016,2018`  <br>
 
@@ -92,9 +92,9 @@ Teaching Assistant, Seminar on Research Methods and Academic Writing in Computat
 **Tools**: Blender, Pybullet, Meshlab, Scrapy, Photoshop <br>
 
 ## **Courses**
-**Math courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
+**Math Courses**: Calculus, Discrete Mathematics, Linear Algebra, Numerical Computing, Probability and Statistics, Statistical Decision Theory and Bayesian Analysis, Stochastic Process <br>
 
-**Professional courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human-Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br>
+**Professional Courses**: Advanced Computer Architecture, Artificial Intelligence, Augmented Reality and Human-Computer Interaction, Computer Graphics，Computational Geometry, Computer Network, Data Structure and Algorithms, Database System, Data Mining, Game Theory (MOOC), Machine Learning, Operating System, Pattern Recognition, Parallel Computing, Reinforcement Learning (MOOC), Software Engineering, Software Testing, Web Data Management <br>
 
 
 
