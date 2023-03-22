@@ -25,7 +25,7 @@ Changsha, Hunan, China
 ```
 
 - M.Sc. in Computer Science
-- GPA: 3.73/4.0 (8/10 Courses are the highest grade)
+- GPA: 3.73/4.0 (8/10 courses are the highest grade)
 - Supervised by Prof. Kai Xu
 
 ### **Shandong University** `2015.9 - 2019.6`
