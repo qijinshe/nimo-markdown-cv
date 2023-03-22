@@ -35,7 +35,7 @@ Jinan, Shandong, China
 ```
 
 - B.Eng. in Software Engineering
-- GPA: 89.4/100, Ranking 8/294
+- GPA: 89.4/100; Ranking 8/292
 - Data Science Track
 
 
@@ -69,17 +69,14 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 #### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
 * Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
 
-## **Awards & Scholarships**
+## **Scholarships**
 
-The Best Poster Award at CCF CAD&CG 2022 (_top 10 Popular Poster_) `2022` <br>
-The National Scholarship for Postgraduates Finalist (_ranking 5/354_) `2021` <br>
-The Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
-The National Scholarship for Undergraduates Finalist (_ranking 5/294_) `2021`  <br>
-The Linglong Scholarship (_top 2.5%_) `2016,2018`  <br>
-The First Prize Scholarship (_top 10%_) `2016,2018`  <br>
-The First Prize in Shandong Provincial Collegiate Programming Contest (_top 10%_) `2017`<br>
-The Second Prize in National College Students Mathematics Competition (_top 20%_)`2016` <br>
-
+The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
+Chinese National Scholarship for Postgraduates Finalist (_ranking 5/354_) `2021` <br>
+Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
+Chinese National Scholarship for Undergraduates Finalist (_ranking 5/292_) `2021`  <br>
+Linglong Scholarship (_top 2.5%_) `2016,2018`  <br>
+First Prize Scholarship (_top 10%_) `2016,2018`  <br>
 
 ## **Teaching**
 Teaching Assistant, Data Structure and Algorithm `NUDT, Fall 2020` <br>
