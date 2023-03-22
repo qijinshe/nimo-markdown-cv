@@ -24,9 +24,10 @@ My research interests are in reinforcement learning, computer graphics and robot
 Changsha, Hunan, China
 ```
 
-- M.Sc. in Computer Science
-- GPA: 3.73/4.0 (8/10 courses are the highest grade)
+- Master of Science (M.Sc.) in Computer Science and Technology
+- GPA: 3.73/4.0 (8/10 courses are the highest grades)
 - Supervised by Prof. Kai Xu
+- Master Thesis: Real-time Reaching-and-Grasping with Dynamic Interaction Geometry Representation
 
 ### **Shandong University** `2015.9 - 2019.6`
 
@@ -34,7 +35,7 @@ Changsha, Hunan, China
 Jinan, Shandong, China
 ```
 
-- B.Eng. in Software Engineering
+- Bachelor of Engineering (B.Eng.) in Software Engineering
 - GPA: 89.4/100; Ranking 8/292
 - Data Science Track
 
