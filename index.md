@@ -18,7 +18,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 
 ## **Education**
 
-### National University of Defense Technology `2019.9 - 2022.6`
+### **National University of Defense Technology** `2019.9 - 2022.6`
 
 ```
 Changsha, Hunan, China
@@ -28,7 +28,7 @@ Changsha, Hunan, China
 - GPA: 3.73/4.0
 - Supervised by Prof. Kai Xu
 
-### Shandong University `2015.9 - 2019.6`
+### **Shandong University** `2015.9 - 2019.6`
 
 ```
 Jinan, Shandong, China
@@ -71,12 +71,12 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 
 ## **Honors & Scholarships**
 
-The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
-Chinese National Scholarship for Postgraduates Finalist (_ranking 5/354 in Colleage of Computer_) `2021` <br>
-Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
-Chinese National Scholarship for Undergraduates Finalist (_ranking 5/292 in Colleage of Software_) `2021`  <br>
-Linglong Scholarship (_top 2.5% in the College of Software_) `2016,2018`  <br>
-First Prize Scholarship (_top 10% in the College of Software_) `2016,2018`  <br>
+**The Best Poster Award at CCF CAD&CG 2022** (_top 10 popular poster_) `2022` <br>
+**Chinese National Scholarship for Postgraduates Finalist** (_ranking 5/354 in Colleage of Computer_) `2021` <br>
+**Outstanding Postgraduate Scholarship** (_for excellent academic performance_) `2020` <br>
+**Chinese National Scholarship for Undergraduates Finalist** (_ranking 5/292 in Colleage of Software_) `2021`  <br>
+**Linglong Scholarship** (_top 2.5% in the College of Software_) `2016,2018`  <br>
+**First Prize Scholarship** (_top 10% in the College of Software_) `2016,2018`  <br>
 
 ## **Teaching**
 Teaching Assistant, Data Structure and Algorithm `NUDT, Fall 2020` <br>
