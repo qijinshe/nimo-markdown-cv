@@ -46,7 +46,7 @@ Jinan, Shandong, China
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu `Visual Computing Research Center, Shenzhen University`<br>
 _Project Leader_ <br>
 * introduced a novel geometric state representation to characterize hand-object interactions for grasping.
-* designed and implemented a novel reinforcement learning algorithm utilizing vectorized reward functions and imperfect demonstrations.
+* designed and implemented a novel RL algorithm utilizing vectorized reward functions and imperfect demonstrations.
 * built the physics-based grasp simulation system.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
