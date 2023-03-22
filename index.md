@@ -26,7 +26,6 @@ Changsha, Hunan, China
 
 - Master of Science (M.Sc.) in Computer Science and Technology
 - GPA: 3.73/4.0 (8/10 courses are the highest grades)
-<!-- - Supervised by Prof. [Kai Xu](https://kevinkaixu.net/) -->
 - Supervised by Prof. Kai Xu
 - Master Thesis: Real-time Reaching-and-Grasping with Dynamic Interaction Geometry Representation
 
