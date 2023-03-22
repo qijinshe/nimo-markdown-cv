@@ -84,8 +84,7 @@ Teaching Assistant, Seminar on Research Methods and Academic Writing in Computat
 
 ## **Services**
 
-### **Journal Reviewer**
-* Computational Visual Media `2022`
+### **Journal Reviewer**: Computational Visual Media 2022
 
 ## **Skills**
 **Programming**: Python, LATEX, C++, C, ROS1, Shell, JAVA <br>
