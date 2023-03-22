@@ -60,14 +60,12 @@ _Project Co-Leader_ <br>
 ## **Publications**
 <!-- * indicates equal contribution -->
 ### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
-**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
-#### _ACM Transactions on Graphics (SIGGRAPH’ 22)._
+**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. `_ACM Transactions on Graphics (SIGGRAPH’ 22)_`<br>
 * Proposed a novel geometric representation that dynamically characterizes spatial relation of the hand and the object, as well as a learning method
 to train a policy model using the representation to solve the High-DOF reaching-and-grasping task.
 
-### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning** <br>
-Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
-#### _In Processings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)._ 
+### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning**<br>
+Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `_AAAI 2021_` <br>
 * Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
 
 ## **Honors & Scholarships**
