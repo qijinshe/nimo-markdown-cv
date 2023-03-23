@@ -36,7 +36,7 @@ Jinan, Shandong, China
 ```
 
 - Bachelor of Engineering (B.Eng.) in Software Engineering
-- GPA: 89.4/100; Ranking 8/292
+- GPA: 4.62/5.0; Ranking 8/292
 - Data Science track
 
 
