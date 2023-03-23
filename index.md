@@ -73,7 +73,7 @@ Proposed a new constrained reinforcement learning method with modified Monte Car
 ## **Honors & Scholarships**
 
 The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
-Chinese National Scholarship for Postgraduates Finalist (_ranking 5/354 in the School of Computer_) `2021` <br>
+Chinese National Scholarship for Postgraduates Finalist (_ranking 5/300+ in the School of Computer_) `2021` <br>
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
 Chinese National Scholarship for Undergraduates Finalist (_ranking 5/292 in the School of Software_) `2018`  <br>
 Linglong Scholarship (_top 2.5% in the School of Software_) `2016,2018`  <br>
