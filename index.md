@@ -47,7 +47,7 @@ Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu `Visual Computing Res
 _Project Leader_ <br>
 * introduced a novel geometric state representation to characterize hand-object interactions for grasping.
 * designed and implemented a novel RL algorithm utilizing vectorized reward functions and imperfect demonstrations.
-* built the physics-based grasp simulation system.
+* built a physics-based grasp simulation system based on Pybullet.
 
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, National University of Defense Technology` <br>
