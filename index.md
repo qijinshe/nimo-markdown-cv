@@ -71,7 +71,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `AAAI 2021` <br>
 Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
 
 ## **Honors & Scholarships**
-NUDT Excellent Master Thesis (_about 5% of master's graduates) `2023` <br>
+NUDT Excellent Master Thesis (_about 5% of master's graduates——) `2023` <br>
 The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
 Chinese National Scholarship for Postgraduates Finalist (_ranking 5/300+ in the School of Computer_) `2021` <br>
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
