@@ -62,7 +62,7 @@ _Project Co-Leader_ <br>
 ### **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 <!-- [[Project](https://kevinkaixu.net/projects/ibsgrasp.html)] -->
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. `ACM Transactions on Graphics (SIGGRAPH’22)`<br>
-Proposed a novel geometric representation that dynamically characterizes hand-object spatial relation, as well as a learning method
+Proposed a novel geometric representation that dynamically characterizes gripper-object spatial relation, as well as a learning method
 to train a policy model using this representation to solve the High-DOF reaching-and-grasping task.
 
 ### **Online 3D Bin Packing with Constrained Deep Reinforcement Learning** <br>
