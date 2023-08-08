@@ -42,7 +42,7 @@ Jinan, Shandong, China
 
 ## **Research Experience**
 
-### **Project 1: Reaching-and-grasping Planning for Dexterous Hand** `Octorber 2020 - January 2022` <br>
+### **Project 1: Reaching-and-grasping Planning for Dexterous Hand** `October 2020 - January 2022` <br>
 Advised by Prof. Ruizhen Hu, Prof. Hui Huang, Prof. Kai Xu `Visual Computing Research Center, Shenzhen University`<br>
 _Project Leader_ <br>
 * introduced a novel geometric state representation to characterize hand-object interactions for grasping.
@@ -52,9 +52,9 @@ _Project Leader_ <br>
 ### **Project 2: Online 3D Bin Packing Problem** `August 2019 - October 2020`<br>
 Advised by Prof. Chenyang Zhu, Prof. Ying Yang, Prof. Kai Xu `iGRAPE Lab, National University of Defense Technology` <br>
 _Project Co-Leader_ <br>
-* designed and implemented a RL-based method for online 3D packing task.
+* designed and implemented a RL-based method for the online 3D packing task.
 * extended the packing method to the looking-ahead setting with the modified Monte Carlo Tree Search method.
-* developed a simple user-study app to collected user test data.
+* developed a simple user-study app to collect user test data.
 
 
 ## **Publications**
@@ -71,7 +71,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `AAAI 2021` <br>
 Proposed a new constrained reinforcement learning method with modified Monte Carlo Tree Search (MCTS) to solve the online 3D bin packing problem where only the first k items are known and in a fixed order.
 
 ## **Honors & Scholarships**
-NUDT Excellent Master Thesis (_about top 5% of master's graduates_) `2023` <br>
+NUDT Excellent Master's Thesis (_about top 5% of master's graduates_) `2023` <br>
 The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
 Chinese National Scholarship for Postgraduates Finalist (_ranking 5/300+ in the School of Computer_) `2021` <br>
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
