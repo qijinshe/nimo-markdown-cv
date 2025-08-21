@@ -13,8 +13,8 @@ phone: +86 178 6415 4680
 # Qijin She
 
 {% include cv-contact.html %}
-<!-- ## **Introduction**
-My research interests are in reinforcement learning, computer graphics and Embodied AI, with a focus on robotic manipulation. -->
+**Introduction**
+My research interests are in reinforcement learning, computer graphics and Embodied AI, with a focus on robotic manipulation.
 
 ## **Education**
 
