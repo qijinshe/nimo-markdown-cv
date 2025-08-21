@@ -67,7 +67,7 @@ Shishun Zhang, **Qijin She**, Wenhao Li, Chenyang Zhu, Yongjun Wang, Ruizhen Hu,
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. `AAAI 2021` <br>
 
 ## **Honors & Scholarships**
-Excellent Master's Thesis of Hunan Province '2024' <br>
+Excellent Master's Thesis of Hunan Province `2024` <br>
 The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
 Linglong Scholarship (_top 2.5% in the School of Software_) `2016,2018`  <br>
