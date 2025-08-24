@@ -49,7 +49,7 @@ Jinan, Shandong, China
 <!-- * indicates equal contribution -->
 ### **LLM-enhanced Scene Graph Learning for Household Rearrangement** <br>
 <!-- [[Project](https://davit666.github.io/AEG-rearrangement)] -->
-Wenhao Li*, Zhiyuan Yu*, **Qijin She\***, Zhinan Yu, Yuqing Lan, Chenyang Zhu, Ruizhen Hu, Kai Xu. `SIGGRAPH Asia 2024 Conference Papers` <br>
+Wenhao Li\*, Zhiyuan Yu\*, **Qijin She\***, Zhinan Yu, Yuqing Lan, Chenyang Zhu, Ruizhen Hu, Kai Xu. `SIGGRAPH Asia 2024 Conference Papers` <br>
 
 ### **Learning Cross-Hand Policies of High-DOF Reaching and Grasping** <br>
 <!-- [[Project](https://kevinkaixu.net/projects/ibsgrasp.html)] -->
