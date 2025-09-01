@@ -53,7 +53,7 @@ Wenhao Li\*, Zhiyuan Yu\*, **Qijin She\***, Zhinan Yu, Yuqing Lan, Chenyang Zhu,
 
 ### **Learning Cross-Hand Policies of High-DOF Reaching and Grasping** <br>
 <!-- [[Project](https://kevinkaixu.net/projects/ibsgrasp.html)] -->
-**Qijin She**, Shishun Zhang, Yunfan Ye, Ruizhen HU, Kai Xu. `ECCV 2024` <br>
+**Qijin She**, Shishun Zhang, Yunfan Ye, Ruizhen Hu, Kai Xu. `ECCV 2024` <br>
 
 ### **Learning Dual-arm Object Rearrangement for Cartesian Robots** <br>
 Shishun Zhang, **Qijin She**, Wenhao Li, Chenyang Zhu, Yongjun Wang, Ruizhen Hu, Kai Xu. `ICRA 2024` <br>
