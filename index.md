@@ -71,7 +71,6 @@ Excellent Master's Thesis of Hunan Province `2024` <br>
 The Best Poster Award at CCF CAD&CG 2022 (_top 10 popular poster_) `2022` <br>
 Outstanding Postgraduate Scholarship (_for excellent academic performance_) `2020` <br>
 Linglong Scholarship (_top 2.5% in the School of Software_) `2016,2018`  <br>
-First Prize Scholarship (_top 10% in the School of Software_) `2016,2018`  <br>
 
 ## **Teaching**
 Teaching Assistant, Intelligent Robots and Embodied AI `HKUST, Spring 2025` <br>
