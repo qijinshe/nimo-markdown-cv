@@ -14,7 +14,7 @@ phone: +86 178 6415 4680
 
 {% include cv-contact.html %}
 ## **Introduction**
-My research interests are in Embodied AI, imitation learning, vision-language-action models and reinforcement learning.
+My research interests are in Embodied AI, imitation learning, reinforcement learning and vision-language-action models.
 
 ## **Education**
 
